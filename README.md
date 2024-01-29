@@ -31,3 +31,10 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
 ![LoRa Telegram Gateway](/images/emerge-button-2.png)
 
 ## Documentation
+
+##Credits
+  - Mr. Untung Suprihadi
+  - Kevin Setya Nugraha (me)
+  - Arizky Rahman
+  - All of the Arduino Community
+  - Internet
