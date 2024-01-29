@@ -12,6 +12,7 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
   - LoRa-02 SX1278
   - LED
   - Switch Button (not pushbutton or self-reset button)
+    
 ![LoRa Emergency Button](/images/emerge-button-1.png)
 
 ### Parts for Buzzer
