@@ -12,6 +12,7 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
   - LoRa-02 SX1278
   - LED
   - Switch Button (not pushbutton or self-reset button)
+![LoRa Emergency Button](/images/emerge-button-1.png)
 
 ### Parts for Buzzer
   - ESP8266
@@ -19,9 +20,11 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
   - Relay 5V
   - 12v Buzzer
   - LCD I2C 16x2
+![LoRa Warning Buzzer](/images/emerge-button-2.png)
 
 ### Parts for Internet Gateway
   - ESP8266
   - LoRa-02 SX1278
+![LoRa Telegram Gateway](/images/emerge-button-3.png)
 
 ## Documentation
