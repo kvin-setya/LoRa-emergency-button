@@ -20,11 +20,13 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
   - Relay 5V
   - 12v Buzzer
   - LCD I2C 16x2
+    
 ![LoRa Warning Buzzer](/images/emerge-button-3.png)
 
 ### Parts for Internet Gateway
   - ESP8266
   - LoRa-02 SX1278
+
 ![LoRa Telegram Gateway](/images/emerge-button-2.png)
 
 ## Documentation
