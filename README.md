@@ -37,4 +37,4 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
   - Kevin Setya Nugraha (me)
   - Arizky Rahman
   - All of the Arduino Community
-  - Internet
+  - All of Internet Users
