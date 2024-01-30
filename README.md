@@ -31,7 +31,9 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
 ![LoRa Telegram Gateway](/images/emerge-button-2.png)
 
 ## Documentation
-
+![Lora Internet Gateway](/images/LoRa-gateway.jpg)
+![10 LoRa Emergency Button](/images/LoRa-node.jpg)
+![LoRa Emergency Button with Case](/images/LoRa-node-cover.jpg)
 ## Credits
   - Mr. Untung Suprihadi
   - Kevin Setya Nugraha (me)
