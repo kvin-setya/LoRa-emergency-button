@@ -32,7 +32,7 @@ there are 2 different gateway, one is responsible to turn on the buzzer and show
 
 ## Documentation
 
-##Credits
+## Credits
   - Mr. Untung Suprihadi
   - Kevin Setya Nugraha (me)
   - Arizky Rahman
